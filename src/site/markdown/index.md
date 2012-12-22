@@ -1,0 +1,1 @@
+This is a Java client library for http://www.stopforumspam.com/
